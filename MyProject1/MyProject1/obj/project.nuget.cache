@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShfldU2ZQw7F4G7Z0RZ1czMZSagU0/FjpbZHbizVAHz1WRjQvJOfr4fDvsYekae90LSHmAzBRnlG1lkrQ7onRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\MyProject1\\MyProject1\\MyProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
